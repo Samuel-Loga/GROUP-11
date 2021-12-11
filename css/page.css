@@ -1,0 +1,70 @@
+* {
+    padding: 15px;
+}
+.cart-container {
+    padding: 0
+}
+.top {
+    background-color: rgb(33, 33, 34);
+    align-items: center;
+    color: aliceblue;
+    padding: 50px 30px 50px 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-menu {
+    height: 100%;
+}
+
+.head a {
+    text-decoration: none;
+    color: whitesmoke
+}
+
+.head a:hover, .left-link a:hover  {
+    color: #ffc200;
+}
+
+.navbar .nav-item a {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(37, 23, 23)
+}
+
+.navbar .nav-item a:hover {
+    background-color: #ffc200;
+    border-radius: 10px;
+}
+
+#search-box {
+    border-radius: 20px;
+    padding: 10px
+}
+
+.s-btn {}
+
+ aside {
+    border: solid 1px rgb(48, 43, 43);
+    width: 145%;
+}
+/*aside .sideA {
+    height: 40%;
+    margin-top: 0em;
+}
+aside .sideB {
+    height: 20%;
+} */
+.left-link a {
+    color: bisque;
+    font-size: 18px;
+    font-weight: bold;
+}
+.food-pic {
+    border-radius: 50%;
+}
+.main {
+    margin-left: 50px;
+    top: -1;
+}
